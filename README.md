@@ -23,7 +23,7 @@ https://applejr.net
 
 ## Installation Guides
 
-- [Install IPA on iPhone](docs/install-ipa-on-iphone.md)
+- [Install IPA on iPhone](docs/install-esign-ios.md)
 - [Install ESign iOS](https://www.youtube.com/watch?v=ganILG26EPA&list=PLG5YsIiNJS2RAzhjs5oX9y8AkCf4yK-AF)
 - [Install Scarlet iOS](https://www.youtube.com/watch?v=f8szIVx0tAs&pp=0gcJCUELAYcqIYzv)
 - [Install KSign iOS](docs/install-ksign-ios.md)
